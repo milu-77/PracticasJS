@@ -1,0 +1,25 @@
+#id0 {
+background-color: lightslategrey;
+padding: 2px;
+border: 1px;
+color:white;
+ 
+
+}
+#id1 {
+     
+    padding: 2px;
+    border: 1px;
+    color:rgb(0, 0, 0);
+     
+    
+    }
+
+#caja{
+    background-color: aliceblue;
+    text-align: center;
+    padding: 30px;
+}
+.input-group{
+    text-align: center;
+}

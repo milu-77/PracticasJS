@@ -1,0 +1,28 @@
+
+
+
+
+.celda {
+    border-top-width: 1px;
+border-top-style: solid;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-right-width: 1px;
+border-right-style: solid;
+border-left-width: 1px;
+border-left-style: solid;
+    width:20px ;
+    height:20px ;
+    border-color: blue;
+ }
+ .celda:hover{
+    background-color:brown;
+ }
+#caja {
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    margin: 0 auto;
+
+ }

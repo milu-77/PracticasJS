@@ -1,0 +1,54 @@
+.celda {
+    border-top-width: 1px;
+border-top-style: solid;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-right-width: 1px;
+border-right-style: solid;
+border-left-width: 1px;
+border-left-style: solid;
+    width:50px ;
+    height:50px ;
+     
+ }
+ .row{
+    display:block !important;
+ }
+ 
+#azul{
+    background-color:#008080;
+}
+#azul:active{
+    background-color:#00ffff;
+ }
+#rojo{
+    background-color: #800000; 
+}
+#rojo:active{
+    background-color:red;
+ }
+#amarillo{
+    background-color: #e5be01; 
+}
+#amarillo:active{
+    background-color:#FFFF00; 
+ }
+#verde{
+    background-color: #008000;  
+}
+#verde:active{
+    background-color:#00FF00;
+ }
+#caja{
+    background-color: aliceblue;
+    text-align: center;
+    padding: 30px;
+    color:black !important;
+}
+.default{
+    color: rgb(4, 4, 4) !important;
+    border-collapse:separate !important; 
+    text-align: center;
+     
+
+}
